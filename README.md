@@ -1,3 +1,4 @@
+https://github.com/lastreq/gas-price-test-task-api-mock cервис заглушка, отдает gas_price.json
 
 Задача: реализовать сервис обработки истории цены gas в сети ethereum.
 
